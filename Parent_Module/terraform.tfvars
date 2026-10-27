@@ -14,3 +14,18 @@
             address_space = ["10.0.0.0/16"]
         } 
     }
+
+    Subnets = {
+        subnet01 = {
+            name = "Subnet-FE"
+            resource_group_name = "RG01-Dev-27102026"
+            virtual_network_name = "VNET01-DEV"
+            address_prefixes = ["10.0.0.0/26"]
+        }
+        subnet02 = {
+            name = "Subnet-BE"
+            resource_group_name = "RG01-Dev-27102026"
+            virtual_network_name = "VNET01-DEV"
+            address_prefixes = ["10.0.1.0/26"]
+        }
+  }
