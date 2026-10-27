@@ -1,1 +1,2 @@
 variable "RGs" {}
+variable "VNETs" {}
