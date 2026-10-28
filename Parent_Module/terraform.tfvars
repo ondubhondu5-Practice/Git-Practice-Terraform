@@ -29,3 +29,17 @@
             address_prefixes = ["10.0.1.0/26"]
         }
   }
+
+        NICs = {
+        NIC01 = {
+            name = "FE-NIC"
+            location = "Central India"
+            resource_group_name = "RG01-Dev-27102026"
+            subnet_name = "Subnet-FE"
+            virtual_network_name = "VNET01-DEV"
+            ip_configuration = {
+                name = "FE-NIC_IPConfig"
+                private_ip_address_allocation = "Dynamic"
+            }
+        } 
+    }
