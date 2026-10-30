@@ -3,6 +3,11 @@
             name = "RG01-Dev-27102026"
             location = "central india"
             mng_by = "TCS"
+        }
+        rg02 = {
+            name = "RG100-RG"
+            location = "central india"
+            mng_by = "TCS"
         } 
     }
 
