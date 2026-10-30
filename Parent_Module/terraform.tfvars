@@ -4,6 +4,11 @@
             location = "central india"
             mng_by = "TCS"
         } 
+        rg02 = {
+            name = "RG10"
+            location = "central india"
+            mng_by = "Owned"
+        }        
     }
 
           VNETs = {
