@@ -13,7 +13,12 @@
             name = "RG10"
             location = "central india"
             mng_by = "Owned"
-        }        
+        }
+        rg04 = {
+            name = "RG9999"
+            location = "central india"
+            mng_by = "Owned"
+        }      
     }
 
           VNETs = {
