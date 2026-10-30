@@ -18,6 +18,11 @@
             name = "RG999"
             location = "central india"
             mng_by = "Owned"
+        }  
+        rg05 = {
+            name = "RG9999"
+            location = "central india"
+            mng_by = "Owned"
         }         
     }
 
